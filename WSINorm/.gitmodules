@@ -1,0 +1,6 @@
+[submodule "CLAM"]
+	path = CLAM
+	url = https://github.com/happyalfred2016/CLAM.git
+[submodule "torchvahadane"]
+	path = torchvahadane
+	url = https://github.com/doukAndy/torchvahadane.git
