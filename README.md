@@ -1,5 +1,5 @@
 # Single-Cell Profiling Identifies CD4+CXCR5+PD-1- Tfh Cells 1 as Predictive Biomarkers for R-CHOP Therapy Response in human DLBCL
-### Sisi Yu1,5, †, Hao Kong1, †, Huaichao Luo1,6, †,Xingzhong Zhao,† Jie Yang1, Xiangji Wu1, Yu Dai1, Chunwei Wu1, James Q. Wang 7, Dan Cao4, §, Yang Xu3, §, Hong Jiang1,2, § , Ping Wang1, §,#
+### Sisi Yu1,5, †, Hao Kong1, †, Huaichao Luo1,6, †,Xingzhong Zhao7,†, Guanghui Zhu8,†, Jie Yang1, Xiangji Wu1, Yu Dai1, Chunwei Wu1, James Q. Wang 7, Dan Cao4, §, Yang Xu3, §, Hong Jiang1,2, § , Ping Wang1, §,#
 
 
 ## Requirements
